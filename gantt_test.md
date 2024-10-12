@@ -21,7 +21,3 @@
             Evaluation de mi-parcours : crit, b, 25-10-2024, 1d
             Finalisation du projet : crit, b, 10-12-2024, 1d
             Soutenance orale : crit, b,  13-12-2024, 1d
-
-
-```
-
